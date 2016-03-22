@@ -1,0 +1,21 @@
+{
+  "name": "puppet-limits",
+  "version": "2.0.10",
+  "author": "GET-Automation",
+  "license": "Apache-2.0",
+  "summary": "limits module installs, and enforces the limits package as well as it's configuration file",
+  "source": "https://github.com/GETAutomation/puppet-limits",
+  "project_page": "https://github.com/GETAutomation/puppet-limits",
+  "issues_url": "https://github.com/GETAutomation/puppet-limits/issues",
+  "tags": ["limits"],
+  "operatingsystem_support": [
+    {
+    "operatingsystem":"RedHat",
+    "operatingsystemrelease":[ "5.0", "6.0" ]
+    }
+   ],
+  "dependencies": [
+    { "name": "puppetlabs/stdlib", "version_requirement": ">=3.2.0 <5.0.0" },
+    { "name": "get/getlib", "version_requirement": ">= 0.0.4" }
+  ]
+}

@@ -1,0 +1,7 @@
+fixtures:
+  repositories:
+    "getlib": "git@github.com:GETAutomation/puppet-getlib"
+    "stdlib":  "git@github.com:GETAutomation/puppet-stdlib"
+  symlinks:
+    "limits": "#{source_dir}"
+
