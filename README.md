@@ -3,17 +3,6 @@
 This is a Puppet module for limits
 It provides only package installation and file configuration.
 
-Author:     GET-Automation <GET-SE-L2E-Get-Automation@cable.comcast.com>
-Maintainer: GET-Automation <GET-SE-L2E-Get-Automation@cable.comcast.com>
-
-Official site: https://github.comcast.com/GETAutomation/
-
-Official git repository: https://github.comcast.com/GETAutomation/puppet-limits
-
-Released under the terms of Apache 2 License.
-
-This module requires the presence of getlib module in your modulepath.
-
 
 ## USAGE - Basic management
 
